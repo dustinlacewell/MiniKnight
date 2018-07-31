@@ -24,8 +24,8 @@
     <None Include="Content\Maps\map5.bmp" CopyToOutputDirectory="PreserveNewest" />
     <None Include="Content\Sprites\background.png" CopyToOutputDirectory="PreserveNewest" />
     <None Include="Content\Sprites\goldCoin.png" CopyToOutputDirectory="PreserveNewest" />
-    <None Include="Content\Sprites\knight.png" CopyToOutputDirectory="PreserveNewest" />
-    <None Include="Content\Sprites\orc.png" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="Content\Sprites\Knight.png" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="Content\Sprites\Orc.png" CopyToOutputDirectory="PreserveNewest" />
     <None Include="Content\Sprites\portalArrive.png" CopyToOutputDirectory="PreserveNewest" />
     <None Include="Content\Sprites\portalDepart.png" CopyToOutputDirectory="PreserveNewest" />
     <None Include="Content\Sprites\spikes.png" CopyToOutputDirectory="PreserveNewest" />
